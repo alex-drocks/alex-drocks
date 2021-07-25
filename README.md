@@ -1,12 +1,12 @@
-👋 Hi, I’m @alex-drocks
+## Hello, I’m Alexandre Desroches!
 
-I really enjoy coding with JavaScript and its vast ecosystem.
-My main focus is on vanilla JS, HTML, CSS.
+I really enjoy coding with **JavaScript**&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="20" height="20"/>
 
-I also work with Electron for desktop apps and React for web apps, but vanilla JS is where I have put most of my efforts as it is a really strong foundation for everything else.
+Mainly, I make websites and web apps with with React JS, and desktop softwares with Electron JS.
 
-Before discovering JavaScript I tried a few other languages like Autohotkey for Windows macroing, Python, Java, C# and PHP.
-JavaScript was the clear winner for me. Its versatile, efficient, reads well and is omnipresent on the web.
-You can do almost anything with it and its here to stay!
+Before fully diving into JavaScript I tried a few other languages like Autohotkey for Windows macroing, Python, Java, C# and PHP.
+But, in the end, **JavaScript was the clear winner for me.** It's versatile, efficient, reads well and is omnipresent.
+Also, we can do almost anything with it. To be honest, I think it's an awesome language - Thanks to all its contributors.
 
-You can reach me any time on LinkedIn: https://www.linkedin.com/in/alexandre-desroches-14a15414b/
+Feel free to contact me!
+You can reach me any time on **LinkedIn**: https://www.linkedin.com/in/alexandre-desroches-14a15414b/
