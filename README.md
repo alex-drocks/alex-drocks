@@ -16,7 +16,7 @@ I expanded on this knowledge to mine on the Bittensor AI network by providing cl
 [![Linkedin: alexandre-desroches-dev](https://img.shields.io/badge/LinkedIn-Alexandre%20Desroches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-desroches-dev/)](https://www.linkedin.com/in/alexandre-desroches-dev/)
 
 [![GitHub alex-drocks](https://img.shields.io/github/followers/alex-drocks?label=follow&style=social)](https://github.com/alex-drocks)
-[![Twitter: DrocksAlex](https://img.shields.io/twitter/follow/DrocksAlex?style=social)](https://twitter.com/DrocksAlex)
+[![Twitter: DrocksAlex](https://img.shields.io/twitter/follow/DrocksAlex?style=social)](https://twitter.com/DrocksAlex2)
 
 
 Note: In December 2021 I had to start using GitLab for work and so my GitHub activity may have dropped since. This does not reflect my actual time invested coding. In fact, I code even more than before.
