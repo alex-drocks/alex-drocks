@@ -3,7 +3,12 @@
 I'm a **JavaScript** and front-end wizard 🧙😁 &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="20" height="20"/>
 
 
-My first coding experience was to build an accounting software from scratch. It now has 300 daily unique users and is free to use for small businesses in Quebec Canada (https://finance-d.com).
+My first coding experience was to build an accounting software from scratch. 
+It now has 300 daily unique users and is free to use for small businesses in Quebec Canada (https://finance-d.com).
+Finance D also ranks organically in top Google Search for specific queries.
+All this was accomplished without a team and no marketing.
+
+I expanded on this knowledge to mine on the Bittensor AI network by providing cloud instances that solve specific problems.
 
 
 ### Please feel free to contact me any time on **LinkedIn**, **GitHub** or **Twitter**!
