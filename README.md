@@ -1,6 +1,6 @@
 ## Hello, I’m Alexandre Desroches!
 
-I'm a **JavaScript** and front-end wizard 🧙😁 &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="20" height="20"/>
+**JS** and and **TS** front-end wizard 🧙😁 &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="20" height="20"/>
 
 
 My first coding experience was to build an accounting software from scratch. 
