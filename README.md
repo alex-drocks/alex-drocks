@@ -1,4 +1,4 @@
-## Hello, I’m Alexandre Desroches!
+## Hello, I’m Alex Desroches!
 
 I like to code with **JS** and **Python** 
 
